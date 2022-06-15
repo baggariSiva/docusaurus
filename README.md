@@ -2,6 +2,28 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/docusaurus"><img src="static\img\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
+
+# Docusaurus!
+
+This is a very basic example of a simple Docusaurus app.
+
+-[Docusaurus Docs](https://docusaurus.io/)
+
+
+Clone this [elestio-examples/docusaurus](https://github.com/elestio-examples/docusaurus) 
+
+```
+git clone https://github.com/elestio-examples/ocusaurus.git
+```
+Change into project directory.
+
+```
+npm install
+npm run serve
+```
+
+This starts your app in development mode, make the changes and push.
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 <img src="static\img\screenshot.png" alt="screenshot of the example app" width="100%" />
