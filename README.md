@@ -13,7 +13,7 @@ This is a very basic example of a simple Docusaurus app.
 Clone this [elestio-examples/docusaurus](https://github.com/elestio-examples/docusaurus) 
 
 ```
-git clone https://github.com/elestio-examples/ocusaurus.git
+git clone https://github.com/elestio-examples/docusaurus.git
 ```
 Change into project directory.
 
