@@ -19,7 +19,7 @@ git clone YOUR_REPOSITORY_URL
 ### Step 2: Go to project folder
 
 ```
-cd Docusaurus
+cd docusaurus
 ```
 
 ### Step 3: Install dependencies
