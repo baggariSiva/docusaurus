@@ -1,6 +1,6 @@
-# Docusaurus on Elestio
+# Docusaurus using docusaurus-init on Elestio
 
-This is a minimal example of a Docusaurus site created using docusaurus-init
+This is a minimal example of a Docusaurus app created using docusaurus-init
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
